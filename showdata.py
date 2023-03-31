@@ -1,8 +1,11 @@
+#	code 	: RyoXHans
+#	github	: RyoXHans
+#	date 	: Jumat 31 Maret 2023
+#	note 	: Ingin recode silahkan :b sc ini terbuka untuk publik
 import mysql.connector
 import os
 import platform
 import sys
-#import re
 try:
 	username = sys.argv[1]
 	password = sys.argv[2]
