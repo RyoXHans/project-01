@@ -1,0 +1,9 @@
+USAGE:
+	show [COLUMN_NAME]
+
+	note: jika ingin menampilkan semua data, maka gunakan *
+
+LIST COMMANDS:
+	show				untuk menampilkan data
+	exit				untuk keluar
+	h, help				untuk menampilkan bantuan
