@@ -9,8 +9,8 @@ Contoh:<br>
 <code>~$ python showdata.py ryoxhans ryoayanghans localhost</code>
 
 # Screenshoot
-<h2>Memilih database dan tabel</h2><br>
+Memilih database dan tabel<br>
 ![screenshoot1.png](https://github.com/RyoXHans/project-01/blob/main/screenshoot1.png?raw=true)
 <br><br>
-<h2>Masuk ke command line</h2><br>
+Masuk ke command line<br>
 ![screenshoot2.png](https://github.com/RyoXHans/project-01/blob/main/screenshoot2.png?raw=true)
