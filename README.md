@@ -9,5 +9,5 @@ Contoh:<br>
 <code>~$ python showdata.py ryoxhans ryoayanghans localhost</code>
 
 # Screenshoot
-![screenshoot1.png]<br>
-![screenshoot2.png]
+![screenshoot1.png](https://github.com/RyoXHans/project-01/blob/main/screenshoot1.png?raw=true)
+![screenshoot2.png](https://github.com/RyoXHans/project-01/blob/main/screenshoot2.png?raw=true)
