@@ -9,3 +9,5 @@ Contoh:<br>
 <code>~$ python showdata.py ryoxhans ryoayanghans localhost</code>
 
 # Screenshoot
+![screenshoot1.png]<br>
+![screenshoot2.png]
