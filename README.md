@@ -1,5 +1,5 @@
 # project-01
-Project Menampilkan isi dalam tabel sesuai colom di dalam database menggunakan python
+Project mini saya yang gunanya menampilkan isi tabel database MySQL untuk mengisi waktu luang, support Windows, Linux, MacOS. Selamat mencoba:)
 
 # Usage
 Untuk menjalankan skrip ini, ketik:<br>
@@ -7,3 +7,5 @@ Untuk menjalankan skrip ini, ketik:<br>
 
 Contoh:<br>
 <code>~$ python showdata.py ryoxhans ryoayanghans localhost</code>
+
+# Screenshoot
